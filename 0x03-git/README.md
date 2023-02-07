@@ -1,2 +1,2 @@
-My first marked task
+My first marked task,
 Updated README.md file
